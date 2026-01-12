@@ -23,3 +23,6 @@ After recovering phi we can use e2 to get the private key d2 and recover the fla
 [solve.py](./solve.py)
 
 ## Flag
+```
+uoftctf{1_5h0u1dv3_ju57_ch4ng3d_th3_wh013_th1ng_1n5734d}
+```
